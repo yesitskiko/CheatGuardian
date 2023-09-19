@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(23, 23, 23);
+}
+.left-menu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 240px;
+    height: 100%;
+    background-color: rgb(16, 16, 16);
+}
